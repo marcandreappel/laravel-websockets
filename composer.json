@@ -31,7 +31,7 @@
     "require": {
         "php": "^8.2",
         "cboden/ratchet": "^0.4.4",
-        "clue/block-react": "^1.5",
+        "react/async": "^4.1",
         "clue/reactphp-sqlite": "^1.0",
         "clue/redis-react": "^2.6",
         "doctrine/dbal": "^2.9",
